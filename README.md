@@ -14,7 +14,7 @@ Este proyecto detecta en tiempo real un **protector auditivo tipo orejera** usan
 
 **Aplicación en Ingeniería Civil:** apoyar la verificación del uso de equipos de protección personal (EPP) en obras, por ejemplo en zonas con maquinaria de alto ruido como rotomartillos, sierras o compactadoras.
 
-![Detección del protector auditivo](capturas/deteccion.png)
+![Detección del protector auditivo](capturasdeteccion.png)
 
 ---
 
@@ -56,7 +56,7 @@ Las imágenes se capturaron con DroidCam usando un recuadro fijo de referencia. 
 
 | Positiva | Negativa |
 |---|---|
-| ![Captura positiva](capturas/captura_positiva.png) | ![Captura negativa](capturas/captura_negativa.png) |
+| ![Captura positiva](capturascaptura_positiva.png) | ![Captura negativa](capturascaptura_negativa.png) |
 
 ---
 
